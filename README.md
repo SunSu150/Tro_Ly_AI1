@@ -1,5 +1,3 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Artaius
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
-
-
+Chương trình chatbot được tạo ra bởi Phan Thế Thiện (Artaius Ashford)
